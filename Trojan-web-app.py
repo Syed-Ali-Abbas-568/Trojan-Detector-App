@@ -4,6 +4,8 @@ Created on Thu Nov 30 21:51:16 2023
 
 @author: syedaliabbas
 """
+import matplotlib
+matplotlib.use('Agg')  # Use Agg backend
 
 import numpy as np
 import pandas as pd
