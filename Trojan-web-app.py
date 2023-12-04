@@ -101,7 +101,7 @@ def main():
     #Creating Title for our user page
     with st.columns(3)[1]:
         
-        st.image(r"C:\Users\syeda\Documents\7th Semester\Final Code\1296059.svg", width=150)
+        st.image("1296059.svg", width=150)
     
     
     
